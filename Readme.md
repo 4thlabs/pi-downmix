@@ -1,1 +1,1 @@
-# A simple supercollider demo to downmix 5.1 to Stereo.
+## A simple pd patch to downmix 5.1 to Stereo.
